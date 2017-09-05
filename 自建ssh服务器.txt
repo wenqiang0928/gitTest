@@ -1,0 +1,8 @@
+https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B ----自建ssh服务器
+
+https://github.com/codeyoyo/wukongss ---翻墙软件
+
+https://www.ngrok.cc/----内外网通讯
+
+
+https://kodcloud.com/index.html ----可道云资源管理器
