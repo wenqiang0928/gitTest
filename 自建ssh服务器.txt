@@ -6,3 +6,8 @@ https://www.ngrok.cc/----内外网通讯
 
 
 https://kodcloud.com/index.html ----可道云资源管理器
+
+https://github.com/shadowsocks/shadowsocks-android  --------翻墙
+
+http://www.workerman.net/-----PHP翻墙软件
+
