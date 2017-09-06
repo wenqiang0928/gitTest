@@ -9,5 +9,5 @@ https://kodcloud.com/index.html ----可道云资源管理器
 
 https://github.com/shadowsocks/shadowsocks-android  --------翻墙
 
-http://www.workerman.net/-----PHP翻墙软件
+http://www.workerman.net/-----PHP聊天框架
 
